@@ -26,6 +26,9 @@
       ```
       A good pictorial chart has to be a boring pictorial chart, one that is concise and unbiased. The picture chosen to form the outline must be plain, very geometric (circle or square preferably), and not distract from the data itself. In terms of shape, a "sun" chart showing categorical precipation data might work, whereas a "lumpy cloud" chart showing the same data might not work. In terms of bias, a "sports car" chart showing modes of transportation data would be biasing (and a bad shape), whereas a "road" chart would be boring to look at, but less biasing.
 
+       Public (good) example: https://public.tableau.com/app/profile/dorian.barosan/viz/StockMarketOverview-NestedTreemap/StockMarketTreemap
+        While the author uses colour to denote change in market cap, since the change in market cap for the depicted period is negative for nearly every stock, it might have been more useful to use colour to distinguish between subgroups (principle of Similarity) to make the figure more visually interesting. It depends on the author's intended message with this figure.
+      
       Public (bad) example: ![bad example](02_activities\assignments\Screenshot 2026-01-27 173000.png)
       (https://datavizproject.com/data-type/pictorial-stacked-chart/)
         This figure could be modestly improved by adding a scale on the y axis to clearly indicate the type of chart (may decrease cognitive load) Ultimately the heart shape will always be misleading to some viewers, so a different design should be selected (something more uniform) (n.b. this is of course an artistic example and not meant to be a visualization depicting meaningful data, but it has all the hallmarks of bad design that are inherent to many pictorial charts).
